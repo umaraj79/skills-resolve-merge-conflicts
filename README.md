@@ -1,6 +1,6 @@
 # Resolve Merge Conflicts
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" alt="Professortocat" />
 
 Hey umaraj79!
 
